@@ -9,7 +9,6 @@ is it in?
 Implement the function def get_state(capital): below so it returns the state.
 GOTCHAS: What happens if two states have the same capital name, how do you
 handle that?
-
 """
 import sys
 
